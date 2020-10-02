@@ -1,2 +1,2 @@
 # TechSpace
-My Practice Website Developed With Django
+My Practice Website Developed With Django and Python.
